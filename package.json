@@ -1,0 +1,27 @@
+{
+  "name": "react-native-meteor-redux-link",
+  "version": "1.0.0",
+  "description": "Links mongo to redux when DDP changes occur",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DesignmanIO/react-native-meteor-redux-link.git"
+  },
+  "keywords": [
+    "react-native-meteor",
+    "redux",
+    "react-native-meteor",
+    "cache",
+    "meteor",
+    "react-native"
+  ],
+  "author": "Designman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DesignmanIO/react-native-meteor-redux-link/issues"
+  },
+  "homepage": "https://github.com/DesignmanIO/react-native-meteor-redux-link#readme"
+}
